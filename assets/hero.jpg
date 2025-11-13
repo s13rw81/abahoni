@@ -1,0 +1,16 @@
+# Placeholder for hero.jpg
+# Replace this file with your actual hero background image (optional)
+# Recommended size: 1920x1080px
+# Supported formats: JPG, PNG, WebP
+# 
+# Note: The hero section uses CSS gradients and SVG shapes by default.
+# If you want to use a background image instead, you can:
+# 1. Add a background-image to .hero-background in styles.css
+# 2. Or modify the HTML to include an <img> tag in the hero section
+# 
+# Example CSS to add background image:
+# .hero-background {
+#     background-image: url('assets/hero.jpg');
+#     background-size: cover;
+#     background-position: center;
+# }

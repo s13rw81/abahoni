@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="60" viewBox="0 0 200 60">
+  <!-- Indian-themed logo: Saffron background -->
+  <!-- ORIGINAL COLOR (to revert, use: #8b5cf6) -->
+  <rect width="200" height="60" fill="#FF9933" rx="5"/>
+  <text x="100" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="white" text-anchor="middle">Abahoni Club</text>
+</svg>

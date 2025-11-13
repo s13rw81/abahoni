@@ -1,0 +1,10 @@
+# Placeholder for logo.png
+# Replace this file with your actual logo image
+# Recommended size: 200x60px (or similar aspect ratio)
+# Supported formats: PNG, SVG, JPG
+# 
+# This is a placeholder file. In a real scenario, you would replace this
+# with an actual image file. For GitHub Pages deployment, you can:
+# 1. Upload your logo.png file directly to the assets/ folder
+# 2. Or use a text-based logo by removing the <img> tag in index.html
+#    and using the .logo-text span instead
